@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ВУЗ\\Компьютерные вычисления (КВ)\\2 аттестация\\Лаба 3 - Полиномиальная интерполяция\\traffic_accident\\traffic_accident\\traffic_accident.csproj": {}
+    "D:\\ВУЗ\\Учебная практика\\Парктика 2-го курса\\Проект\\practical_work\\traffic_accident\\traffic_accident\\traffic_accident.csproj": {}
   },
   "projects": {
-    "D:\\ВУЗ\\Компьютерные вычисления (КВ)\\2 аттестация\\Лаба 3 - Полиномиальная интерполяция\\traffic_accident\\traffic_accident\\traffic_accident.csproj": {
+    "D:\\ВУЗ\\Учебная практика\\Парктика 2-го курса\\Проект\\practical_work\\traffic_accident\\traffic_accident\\traffic_accident.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ВУЗ\\Компьютерные вычисления (КВ)\\2 аттестация\\Лаба 3 - Полиномиальная интерполяция\\traffic_accident\\traffic_accident\\traffic_accident.csproj",
+        "projectUniqueName": "D:\\ВУЗ\\Учебная практика\\Парктика 2-го курса\\Проект\\practical_work\\traffic_accident\\traffic_accident\\traffic_accident.csproj",
         "projectName": "traffic_accident",
-        "projectPath": "D:\\ВУЗ\\Компьютерные вычисления (КВ)\\2 аттестация\\Лаба 3 - Полиномиальная интерполяция\\traffic_accident\\traffic_accident\\traffic_accident.csproj",
+        "projectPath": "D:\\ВУЗ\\Учебная практика\\Парктика 2-го курса\\Проект\\practical_work\\traffic_accident\\traffic_accident\\traffic_accident.csproj",
         "packagesPath": "C:\\Users\\AMCV\\.nuget\\packages\\",
-        "outputPath": "D:\\ВУЗ\\Компьютерные вычисления (КВ)\\2 аттестация\\Лаба 3 - Полиномиальная интерполяция\\traffic_accident\\traffic_accident\\obj\\",
+        "outputPath": "D:\\ВУЗ\\Учебная практика\\Парктика 2-го курса\\Проект\\practical_work\\traffic_accident\\traffic_accident\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
