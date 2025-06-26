@@ -1,0 +1,14 @@
+D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\bin\Debug\net8.0\traffic_accident.exe
+D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\bin\Debug\net8.0\traffic_accident.deps.json
+D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\bin\Debug\net8.0\traffic_accident.runtimeconfig.json
+D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\bin\Debug\net8.0\traffic_accident.dll
+D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\bin\Debug\net8.0\traffic_accident.pdb
+D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.AssemblyInfoInputs.cache
+D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.AssemblyInfo.cs
+D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.csproj.CoreCompileInputs.cache
+D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.dll
+D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\obj\Debug\net8.0\refint\traffic_accident.dll
+D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.pdb
+D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.genruntimeconfig.cache
+D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\obj\Debug\net8.0\ref\traffic_accident.dll
