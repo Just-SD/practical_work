@@ -65,6 +65,7 @@
             buttonGetTAForPeriod.TabIndex = 2;
             buttonGetTAForPeriod.Text = "ДТП за выбранный период";
             buttonGetTAForPeriod.UseVisualStyleBackColor = true;
+            buttonGetTAForPeriod.Click += ShowTrafficAccidentForPeriod;
             // 
             // buttonFindPlace
             // 
@@ -93,14 +94,14 @@
             Controls.Add(buttonGetAllTA);
             Controls.Add(label1);
             Controls.Add(panelMain);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             Name = "StartFrom";
             StartPosition = FormStartPosition.CenterScreen;
-            FormBorderStyle = FormBorderStyle.FixedSingle;
             ResumeLayout(false);
         }
 
         #endregion
-        
+
         private Panel panelMain;
 
         private Label label1;

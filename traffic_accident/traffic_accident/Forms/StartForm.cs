@@ -9,10 +9,7 @@
 
         private void ShowTrafficAccidentControl(object sender, EventArgs e)
         {
-            label1.Visible = false;
-            buttonGetAllTA.Visible = false;
-            buttonGetTAForPeriod.Visible = false;
-            buttonFindPlace.Visible = false;
+            InvisibleAll();
 
             panelMain.Controls.Clear();
             var control = new TrafficAccidentControl(DataBase.TrafficAccidentHandler.GetAllTrafficAccidents());
@@ -22,13 +19,56 @@
             {
                 panelMain.Controls.Clear();
 
-                label1.Visible = true;
-                buttonGetAllTA.Visible = true;
-                buttonGetTAForPeriod.Visible = true;
-                buttonFindPlace.Visible = true;
+                VisibleAll();
             };
 
             panelMain.Controls.Add(control);
+        }
+
+        private void ShowTrafficAccidentForPeriod(object sender, EventArgs e)
+        {
+            this.Enabled = false;
+
+            using (var dialog = new SelectPeriodDialog())
+            {
+                var result = dialog.ShowDialog();
+
+                if (result == DialogResult.Continue)
+                {
+                    this.Enabled = true;
+                    InvisibleAll();
+
+                    var control =
+                        new TrafficAccidentControl(DataBase.TrafficAccidentHandler
+                        .GetTrafficAccidentsForPeriod(dialog.LowerDate, dialog.UpperDate));
+                    control.Dock = DockStyle.Fill;
+
+                    control.BackButtonClicked += () =>
+                    {
+                        panelMain.Controls.Clear();
+
+                        VisibleAll();
+                    };
+
+                    panelMain.Controls.Add(control);
+                }
+            }
+        }
+
+        private void InvisibleAll()
+        {
+            label1.Visible = false;
+            buttonGetAllTA.Visible = false;
+            buttonGetTAForPeriod.Visible = false;
+            buttonFindPlace.Visible = false;
+        }
+
+        private void VisibleAll()
+        {
+            label1.Visible = true;
+            buttonGetAllTA.Visible = true;
+            buttonGetTAForPeriod.Visible = true;
+            buttonFindPlace.Visible = true;
         }
     }
 }

@@ -133,31 +133,7 @@ namespace traffic_accident.DataBase
                 {
                     while (reader.Read())
                     {
-                        TrafficAccident trafficAccident = new TrafficAccident();
-
-                        trafficAccident.Id = reader.GetInt32(0);
-                        trafficAccident.TypeId = reader.GetInt32(1);
-                        trafficAccident.TypeDescription = reader.GetValue(2) as string;
-                        trafficAccident.Date = reader.GetValue(3).ToString().Split(' ')[0];
-                        trafficAccident.CarNumber = reader.GetString(4);
-                        trafficAccident.SeriesDrivingLicense = reader.GetInt32(5);
-                        trafficAccident.NumberDrivingLicense = reader.GetInt32(6);
-
-                        trafficAccident.IsMultipleParticipants = reader.GetBoolean(7);
-                        if (trafficAccident.IsMultipleParticipants)
-                        {
-                            string[] numbers = (string[])reader.GetValue(8);
-                            foreach (string number in numbers)
-                                trafficAccident.CarNumbers.Add(number);
-                        }
-
-                        trafficAccident.CauseId = reader.GetInt32(9);
-                        trafficAccident.SubcauseId = reader.GetInt32(10) as Int32?;
-                        trafficAccident.CauseDescription = reader.GetValue(11) as string;
-                        trafficAccident.AddressTrafficAccident = reader.GetString(12);
-                        trafficAccident.OutsideLocality = reader.GetBoolean(13);
-                        trafficAccident.AtCrossroads = reader.GetBoolean(14);
-                        trafficAccident.OnStreet= reader.GetBoolean(15);
+                        TrafficAccident trafficAccident = CreateTrafficAccidentObject(reader);
 
                         trafficAccidents.Add(trafficAccident);
                     }
@@ -167,6 +143,63 @@ namespace traffic_accident.DataBase
             connection.Close();
 
             return trafficAccidents;
+        }
+
+        public static List<TrafficAccident> GetTrafficAccidentsForPeriod(DateTime lowerDate, DateTime upperDate)
+        {
+            List<TrafficAccident> trafficAccidents = new List<TrafficAccident>();
+            connection.Open();
+
+            string sqlRequest = $"SELECT * FROM traffic_accidents WHERE date BETWEEN " +
+                $"'{lowerDate.ToString().Split(' ')[0]}' AND '{upperDate.ToString().Split(' ')[0]}'";
+
+            using (var command = new NpgsqlCommand(sqlRequest, connection))
+            {
+                using (var reader = command.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        TrafficAccident trafficAccident = CreateTrafficAccidentObject(reader);
+
+                        trafficAccidents.Add(trafficAccident);
+                    }
+                }
+            }
+
+            connection.Close();
+
+            return trafficAccidents;
+        }
+
+        private static TrafficAccident CreateTrafficAccidentObject(NpgsqlDataReader? reader)
+        {
+            TrafficAccident trafficAccident = new TrafficAccident();
+
+            trafficAccident.Id = reader.GetInt32(0);
+            trafficAccident.TypeId = reader.GetInt32(1);
+            trafficAccident.TypeDescription = reader.GetValue(2) as string;
+            trafficAccident.Date = reader.GetValue(3).ToString().Split(' ')[0];
+            trafficAccident.CarNumber = reader.GetString(4);
+            trafficAccident.SeriesDrivingLicense = reader.GetInt32(5);
+            trafficAccident.NumberDrivingLicense = reader.GetInt32(6);
+
+            trafficAccident.IsMultipleParticipants = reader.GetBoolean(7);
+            if (trafficAccident.IsMultipleParticipants)
+            {
+                string[] numbers = (string[])reader.GetValue(8);
+                foreach (string number in numbers)
+                    trafficAccident.CarNumbers.Add(number);
+            }
+
+            trafficAccident.CauseId = reader.GetInt32(9);
+            trafficAccident.SubcauseId = reader.GetInt32(10) as Int32?;
+            trafficAccident.CauseDescription = reader.GetValue(11) as string;
+            trafficAccident.AddressTrafficAccident = reader.GetString(12);
+            trafficAccident.OutsideLocality = reader.GetBoolean(13);
+            trafficAccident.AtCrossroads = reader.GetBoolean(14);
+            trafficAccident.OnStreet = reader.GetBoolean(15);
+
+            return trafficAccident;
         }
     }
 }
