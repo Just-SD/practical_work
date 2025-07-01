@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NpgsqlTypes;
-using System.Text.RegularExpressions;
-using Npgsql.Internal;
+﻿using System.Text.RegularExpressions;
 
-namespace traffic_accident.models
+namespace traffic_accident.Domain.Models
 {
     internal class Driver
     {
@@ -79,7 +72,7 @@ namespace traffic_accident.models
                     throw new ArgumentException
                         ("Получена неверная дата получения водительского удостоверения," +
                         "или срок действия водительского удостоверения истёк.");
-                DateIssue = value;
+                dateIssue = value;
             }
         }
 

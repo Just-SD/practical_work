@@ -1,19 +1,18 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Text;
+﻿using System.Collections;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
-namespace traffic_accident.models
+namespace traffic_accident.Domain.Models
 {
     class CarNumbers : IEnumerable
     {
         private List<string> carNumbers;
 
         public CarNumbers() => carNumbers = new List<string>();
+
+        public int Length
+        {
+            get => carNumbers.Count;
+        }
 
         string this[int index]
         {

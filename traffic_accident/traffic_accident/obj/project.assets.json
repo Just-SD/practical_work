@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    "net8.0-windows7.0": {
       "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.2": {
         "type": "package",
         "compile": {
@@ -180,7 +180,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
+    "net8.0-windows7.0": [
       "Npgsql >= 9.0.3"
     ]
   },
@@ -206,7 +206,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net8.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -214,8 +214,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
           "projectReferences": {}
         }
       },
@@ -232,8 +232,8 @@
       "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
         "dependencies": {
           "Npgsql": {
             "target": "Package",
@@ -254,6 +254,9 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"

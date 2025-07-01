@@ -1,13 +1,23 @@
-﻿using traffic_accident.DataBase;
-using traffic_accident.models;
+﻿using traffic_accident.Forms;
 
 namespace traffic_accident
 {
     internal class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        ///  The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
         {
-            /*TrafficAccident traffic = new TrafficAccident();
+            // To customize application configuration such as set high DPI settings or default font,
+            // see https://aka.ms/applicationconfiguration.
+            ApplicationConfiguration.Initialize();
+            Application.Run(new StartFrom());
+        }
+        /*static void Main()
+        {
+            *//*TrafficAccident traffic = new TrafficAccident();
             traffic.TypeId = 1;
             traffic.TypeDescription = null;
             traffic.Date = "2025.05.30";
@@ -23,11 +33,11 @@ namespace traffic_accident
             traffic.OutsideLocality = false;
             traffic.AtCrossroads = true;
             traffic.OnStreet = false;
-            int id = TrafficAccidentHandler.AddInDataBase(traffic);*/
+            int id = TrafficAccidentHandler.AddInDataBase(traffic);*//*
 
             var trafficAccidents = TrafficAccidentHandler.GetAllTrafficAccidents();
 
             Console.WriteLine();
-        }
+        }*/
     }
 }

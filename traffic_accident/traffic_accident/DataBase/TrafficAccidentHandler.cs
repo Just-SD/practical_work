@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using traffic_accident.models;
+﻿using System.Text;
+using traffic_accident.Domain.Models;
 using Npgsql;
-using NpgsqlTypes;
-using System.Dynamic;
-using System.Net.Http.Headers;
 
 namespace traffic_accident.DataBase
 {
@@ -20,7 +13,7 @@ namespace traffic_accident.DataBase
 
         public static int AddInDataBase(TrafficAccident trafficAccident)
         {
-            StringBuilder sb = new StringBuilder();
+            StringBuilder sb = new();
             int outputId;
 
             sb.Append("INSERT INTO traffic_accidents" +
@@ -35,6 +28,7 @@ namespace traffic_accident.DataBase
                 sb.Append("NULL,");
             else
                 sb.Append($"'{trafficAccident.TypeDescription}',");
+
             sb.Append($"'{trafficAccident.Date}',");
             sb.Append($"'{trafficAccident.CarNumber}',");
             sb.Append(trafficAccident.SeriesDrivingLicense + ",");
@@ -52,6 +46,7 @@ namespace traffic_accident.DataBase
             }
             else
                 sb.Append("NULL,");
+
             sb.Append(trafficAccident.CauseId + ",");
             sb.Append(trafficAccident.SubcauseId + ",");
             if (trafficAccident.CauseDescription == null)
@@ -132,7 +127,7 @@ namespace traffic_accident.DataBase
             List<TrafficAccident> trafficAccidents = new List<TrafficAccident>();
             connection.Open();
 
-            using (var command = new NpgsqlCommand($"SELECT * FROM traffic_accidents", connection))
+            using (var command = new NpgsqlCommand($"SELECT * FROM traffic_accidents ORDER BY date", connection))
             {
                 using (var reader = command.ExecuteReader())
                 {

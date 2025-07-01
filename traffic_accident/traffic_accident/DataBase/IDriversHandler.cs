@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using traffic_accident.models;
+﻿using traffic_accident.Domain.Models;
 
 namespace traffic_accident.DataBase
 {
