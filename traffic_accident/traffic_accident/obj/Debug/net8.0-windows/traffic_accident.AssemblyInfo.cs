@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("traffic_accident")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caa609ec61c0cf87ff675fe7cf2ea91e64afef54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10a667599c42a9ed8a0df613bc6d77fa5c4d5308")]
 [assembly: System.Reflection.AssemblyProductAttribute("traffic_accident")]
 [assembly: System.Reflection.AssemblyTitleAttribute("traffic_accident")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
