@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|d:\\\u0432\u0443\u0437\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u043F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\forms\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|solutionrelative:traffic_accident\\forms\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|d:\\\u0432\u0443\u0437\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u043F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\forms\\selectperioddialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|solutionrelative:traffic_accident\\forms\\selectperioddialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|d:\\\u0432\u0443\u0437\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u043F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\forms\\selectperioddialog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|solutionrelative:traffic_accident\\forms\\selectperioddialog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|d:\\\u0432\u0443\u0437\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u043F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\database\\trafficaccidenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|solutionrelative:traffic_accident\\database\\trafficaccidenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\forms\\selectperioddialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|solutionrelative:traffic_accident\\forms\\selectperioddialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|d:\\\u0432\u0443\u0437\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u043F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\forms\\trafficaccidentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|solutionrelative:traffic_accident\\forms\\trafficaccidentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|d:\\\u0432\u0443\u0437\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u043F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\domain\\models\\trafficaccident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|solutionrelative:traffic_accident\\domain\\models\\trafficaccident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\forms\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|solutionrelative:traffic_accident\\forms\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|d:\\\u0432\u0443\u0437\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u043F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|solutionrelative:traffic_accident\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|d:\\\u0432\u0443\u0437\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u043F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u043F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\forms\\trafficaccidentcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5920894-487F-42A6-A9A9-0C0F97D5250D}|traffic_accident\\traffic_accident.csproj|solutionrelative:traffic_accident\\forms\\trafficaccidentcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,127 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SelectPeriodDialog.cs",
-              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Forms\\SelectPeriodDialog.cs",
-              "RelativeDocumentMoniker": "traffic_accident\\Forms\\SelectPeriodDialog.cs",
-              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Forms\\SelectPeriodDialog.cs",
-              "RelativeToolTip": "traffic_accident\\Forms\\SelectPeriodDialog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T09:27:26.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SelectPeriodDialog.Designer.cs",
-              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Forms\\SelectPeriodDialog.Designer.cs",
-              "RelativeDocumentMoniker": "traffic_accident\\Forms\\SelectPeriodDialog.Designer.cs",
-              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Forms\\SelectPeriodDialog.Designer.cs",
-              "RelativeToolTip": "traffic_accident\\Forms\\SelectPeriodDialog.Designer.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T09:18:40.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SelectPeriodDialog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Forms\\SelectPeriodDialog.cs",
-              "RelativeDocumentMoniker": "traffic_accident\\Forms\\SelectPeriodDialog.cs",
-              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Forms\\SelectPeriodDialog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "traffic_accident\\Forms\\SelectPeriodDialog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T09:17:40.093Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StartForm.cs",
-              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Forms\\StartForm.cs",
-              "RelativeDocumentMoniker": "traffic_accident\\Forms\\StartForm.cs",
-              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Forms\\StartForm.cs",
-              "RelativeToolTip": "traffic_accident\\Forms\\StartForm.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABsAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T09:13:11.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Forms\\StartForm.cs",
-              "RelativeDocumentMoniker": "traffic_accident\\Forms\\StartForm.cs",
-              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Forms\\StartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "traffic_accident\\Forms\\StartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T09:13:07.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TrafficAccidentControl.Designer.cs",
-              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Forms\\TrafficAccidentControl.Designer.cs",
-              "RelativeDocumentMoniker": "traffic_accident\\Forms\\TrafficAccidentControl.Designer.cs",
-              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Forms\\TrafficAccidentControl.Designer.cs",
-              "RelativeToolTip": "traffic_accident\\Forms\\TrafficAccidentControl.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T07:38:46.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TrafficAccidentControl.cs",
-              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Forms\\TrafficAccidentControl.cs",
-              "RelativeDocumentMoniker": "traffic_accident\\Forms\\TrafficAccidentControl.cs",
-              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Forms\\TrafficAccidentControl.cs",
-              "RelativeToolTip": "traffic_accident\\Forms\\TrafficAccidentControl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T07:38:37.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TrafficAccidentHandler.cs",
-              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\DataBase\\TrafficAccidentHandler.cs",
-              "RelativeDocumentMoniker": "traffic_accident\\DataBase\\TrafficAccidentHandler.cs",
-              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\DataBase\\TrafficAccidentHandler.cs",
-              "RelativeToolTip": "traffic_accident\\DataBase\\TrafficAccidentHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T06:53:59.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TrafficAccident.cs",
-              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Domain\\Models\\TrafficAccident.cs",
-              "RelativeDocumentMoniker": "traffic_accident\\Domain\\Models\\TrafficAccident.cs",
-              "ToolTip": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Domain\\Models\\TrafficAccident.cs",
-              "RelativeToolTip": "traffic_accident\\Domain\\Models\\TrafficAccident.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T05:08:37.307Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Program.cs",
               "RelativeDocumentMoniker": "traffic_accident\\Program.cs",
               "ToolTip": "D:\\\u0412\u0423\u0417\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u041F\u0430\u0440\u043A\u0442\u0438\u043A\u0430 2-\u0433\u043E \u043A\u0443\u0440\u0441\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\practical_work\\traffic_accident\\traffic_accident\\Program.cs",
               "RelativeToolTip": "traffic_accident\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T10:25:18.347Z"
+              "WhenOpened": "2025-06-26T10:25:18.347Z",
+              "EditorCaption": ""
             }
           ]
         }

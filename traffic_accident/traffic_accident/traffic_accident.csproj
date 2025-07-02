@@ -13,10 +13,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="Forms\TrafficAccidentControl.cs">
-      <SubType>Form</SubType>
+    <Compile Update="Forms\DangerousPlacesControl.cs">
+      <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="SomeForm.cs">
+    <Compile Update="Forms\TrafficAccidentControl.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

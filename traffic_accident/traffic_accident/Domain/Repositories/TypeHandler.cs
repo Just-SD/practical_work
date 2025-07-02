@@ -29,5 +29,24 @@ namespace traffic_accident.Domain.Repositories
             connection.Close();
             return typeName;
         }
+
+        public static string GetTypeNameToId(int id)
+        {
+            var sqlRequest = $"SELECT name FROM types_of_traffic_accident WHERE id = {id}";
+            string typeName = string.Empty;
+
+            connection.Open();
+
+            using (var command = new NpgsqlCommand(sqlRequest, connection))
+            {
+                var result = command.ExecuteScalar();
+                if (result == null)
+                    throw new NullReferenceException("Значение не найдено.");
+                typeName = result.ToString();
+            }
+
+            connection.Close();
+            return typeName;
+        }
     }
 }

@@ -31,7 +31,6 @@ namespace traffic_accident.Domain.Models
         public string FirstName { get; set; }
         public string Patronymic { get; set; }
         
-        // TODO переделать обработку дат как для аварий
         private DateTime dateBirth;
         public DateTime DateBirth
         {
@@ -59,7 +58,7 @@ namespace traffic_accident.Domain.Models
             }
         }
         public Categories Categories { get; private set; }
-        // TODO переделать обработку дат как для аварий
+
         private DateTime dateIssue;
         public DateTime DateIssue
         {

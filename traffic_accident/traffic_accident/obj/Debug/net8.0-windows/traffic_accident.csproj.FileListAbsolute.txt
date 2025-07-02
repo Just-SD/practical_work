@@ -21,5 +21,6 @@ D:\ВУЗ\Учебная практика\Парктика 2-го курса\П�
 D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0-windows\ref\traffic_accident.dll
 D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0-windows\traffic_accident.Forms.StartFrom.resources
 D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0-windows\traffic_accident.Forms.TrafficAccidentControl.resources
-D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0-windows\CoursePaper.Forms.TrafficAccidentControl.resources
 D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0-windows\traffic_accident.Forms.SelectPeriodDialog.resources
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0-windows\traffic_accident.Forms.SelectYearDialog.resources
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0-windows\traffic_accident.Forms.DangerousPlacesControl.resources

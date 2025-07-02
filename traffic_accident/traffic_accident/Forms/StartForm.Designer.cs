@@ -76,6 +76,7 @@
             buttonFindPlace.TabIndex = 3;
             buttonFindPlace.Text = "Найти места с высоким риском ДТП";
             buttonFindPlace.UseVisualStyleBackColor = true;
+            buttonFindPlace.Click += ShowDangerousPlaces;
             // 
             // panelMain
             // 

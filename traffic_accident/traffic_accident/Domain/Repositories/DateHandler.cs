@@ -27,5 +27,30 @@ namespace traffic_accident.Domain.Repositories
             connection.Close();
             return date;
         }
+
+        public static List<int> GetAvailableYears()
+        {
+            List<int> availableYears = new();
+
+            string sqlRequest = "SELECT date_part('year', date) FROM traffic_accidents " +
+                "GROUP BY date_part('year', date) " +
+                "ORDER BY date_part('year', date)";
+
+            connection.Open();
+
+            using (var command = new NpgsqlCommand(sqlRequest, connection))
+            {
+                using (var reader = command.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        availableYears.Add((int)reader.GetDouble(0));
+                    }
+                }
+            }
+
+            connection.Close();
+            return availableYears;
+        }
     }
 }

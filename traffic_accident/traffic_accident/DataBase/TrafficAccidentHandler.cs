@@ -79,46 +79,8 @@ namespace traffic_accident.DataBase
             return outputId;
         }
 
-        // не реализован, так как пока не используется
         public static TrafficAccident GetTrafficAccident(int id)
         {
-            connection.Open();
-
-            /*using (var command = new NpgsqlCommand($"SELECT * FROM traffic_accidents WHERE id = {id}", connection))
-            {
-                using (var reader = command.ExecuteReader())
-                {
-                    while (reader.Read())
-                    {
-                        int id = reader.GetInt32(0);
-
-                        int cityId = reader.GetInt32(1);
-                        City city = new City(cityId, GetNameToId("citys", cityId));
-
-                        int brandId = reader.GetInt32(2);
-                        Brand brand = new Brand(brandId, GetNameToId("brands", brandId));
-
-                        int modelId = reader.GetInt32(3);
-                        Domain.Model model = new Domain.Model(modelId, brand, GetNameToId("models", modelId));
-
-                        var temp = reader.GetFieldValue<NpgsqlRange<int>>(4);
-                        NpgsqlRange<int> releaseYearRange = new NpgsqlRange<int>(temp.LowerBound, temp.UpperBound - 1);
-
-                        temp = reader.GetFieldValue<NpgsqlRange<int>>(5);
-                        NpgsqlRange<int> enginePowerRange = new NpgsqlRange<int>(temp.LowerBound, temp.UpperBound - 1);
-
-                        string gearShiftBoxType = reader.GetString(6);
-                        string condition = reader.GetString(7);
-
-                        temp = reader.GetFieldValue<NpgsqlRange<int>>(8);
-                        NpgsqlRange<int> priceRange = new NpgsqlRange<int>(temp.LowerBound, temp.UpperBound - 1);
-
-                        yield return new Client(city, brand, model, releaseYearRange,
-                            enginePowerRange, gearShiftBoxType, condition, priceRange, true, id);
-                    }
-                }
-            }*/
-
             throw new NotImplementedException();
         }
 
@@ -192,7 +154,7 @@ namespace traffic_accident.DataBase
             }
 
             trafficAccident.CauseId = reader.GetInt32(9);
-            trafficAccident.SubcauseId = reader.GetInt32(10) as Int32?;
+            trafficAccident.SubcauseId = reader.GetValue(10) as Int32?;
             trafficAccident.CauseDescription = reader.GetValue(11) as string;
             trafficAccident.AddressTrafficAccident = reader.GetString(12);
             trafficAccident.OutsideLocality = reader.GetBoolean(13);
