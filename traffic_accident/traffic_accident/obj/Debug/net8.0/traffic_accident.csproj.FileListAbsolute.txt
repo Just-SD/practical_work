@@ -12,3 +12,23 @@ D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттеста�
 D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.pdb
 D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.genruntimeconfig.cache
 D:\ВУЗ\Компьютерные вычисления (КВ)\2 аттестация\Лаба 3 - Полиномиальная интерполяция\traffic_accident\traffic_accident\obj\Debug\net8.0\ref\traffic_accident.dll
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\bin\Debug\net8.0\traffic_accident.exe
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\bin\Debug\net8.0\traffic_accident.deps.json
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\bin\Debug\net8.0\traffic_accident.runtimeconfig.json
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\bin\Debug\net8.0\traffic_accident.dll
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\bin\Debug\net8.0\traffic_accident.pdb
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\bin\Debug\net8.0\Npgsql.dll
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.csproj.AssemblyReference.cache
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.AssemblyInfoInputs.cache
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.AssemblyInfo.cs
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.csproj.CoreCompileInputs.cache
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.sourcelink.json
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_.4DE3AB51.Up2Date
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.dll
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0\refint\traffic_accident.dll
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.pdb
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0\traffic_accident.genruntimeconfig.cache
+D:\ВУЗ\Учебная практика\Парктика 2-го курса\Проект\practical_work\traffic_accident\traffic_accident\obj\Debug\net8.0\ref\traffic_accident.dll
